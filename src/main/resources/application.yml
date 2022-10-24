@@ -26,7 +26,7 @@ spring:
 logging:
   level:
     root: info
-    com.ll.exam.final__2022_10_08.app: debug
+    com.ll.ebookmarket.app: debug
     org.hibernate.type.descriptor.sql: trace
 custom:
   site:
